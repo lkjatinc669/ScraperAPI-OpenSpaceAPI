@@ -1,0 +1,16 @@
+SERVERHOST = "localhost"
+# SERVERPASSWORD = "root"
+SERVERUSERNAME = "root"
+SERVERUSERPASSWORD = "lkjatinc669"
+SERVERPORT = 3306
+SERVERDBNAME = "openspaceapiscraper"
+
+USERSTABLE = "openspaceuserstable"
+VERIFYTABLE = "openspaceverificationtable"
+FPTABLE = "openspaceforgotpasswordtable"
+
+
+SMTPHOST = "serversmtp-relay.sendinblue.com"
+SMTPPORT = 587
+SMTPLOGIN = "t.frozen.143@gmail.com"
+SMTPPASWD = "EtOa8c9pdHFBqbD7"
