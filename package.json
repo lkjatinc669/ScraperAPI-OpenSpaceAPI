@@ -1,0 +1,31 @@
+{
+  "name": "booksapi-openspaceapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkjatinc669/BooksAPI-OpenSpaceAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkjatinc669/BooksAPI-OpenSpaceAPI/issues"
+  },
+  "homepage": "https://github.com/lkjatinc669/BooksAPI-OpenSpaceAPI#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "md5": "^2.3.0",
+    "mongodb": "^6.0.0",
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1"
+  }
+}
